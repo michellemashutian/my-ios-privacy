@@ -11,4 +11,4 @@ We do not use analytics tools, advertising SDKs, tracking technologies, or third
 No account or sign-in is required to use the app.
 
 If you have any questions about this privacy policy, you can contact us at:
-shutian.ma@gmail.com
+mashutian0608@hotmail.com
