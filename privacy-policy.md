@@ -1,4 +1,4 @@
-Privacy Policy
+#Privacy Policy
 
 Baby Feeding Timer respects your privacy.
 
