@@ -1,6 +1,6 @@
 Privacy Policy
 
-Baby Feeding Timer respects your privacy.
+Pumping Timer respects your privacy.
 
 This app does not collect, store, transmit, or share any personal data.
 
