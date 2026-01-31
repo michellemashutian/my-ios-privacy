@@ -1,6 +1,6 @@
-Privacy Policy
+# Privacy Policy
 
-Pumping Timer respects your privacy.
+**Pumping Timer** respects your privacy.
 
 This app does not collect, store, transmit, or share any personal data.
 
@@ -11,4 +11,4 @@ We do not use analytics tools, advertising SDKs, tracking technologies, or third
 No account or sign-in is required to use the app.
 
 If you have any questions about this privacy policy, you can contact us at:
-mashutian0608@hotmail.com
+📧 mashutian0608@hotmail.com
